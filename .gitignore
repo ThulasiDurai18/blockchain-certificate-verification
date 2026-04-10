@@ -1,0 +1,12 @@
+# Ignore private keys
+*.pem
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
